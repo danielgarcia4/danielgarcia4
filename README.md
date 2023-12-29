@@ -1,5 +1,5 @@
 ### Oi, eu sou o Daniel! 👋
-- 🖥️ Técnico em Informática
+- 🖥️ Técnico em Informática (IFMS)
 - 👨‍🎓 Estudante universitário (Engenharia de Computação | UFMS)
 - ☁️ Estagiário em AWS Data Cloud Engineering (Compass UOL)
 - 📫 Campo Grande - MS
